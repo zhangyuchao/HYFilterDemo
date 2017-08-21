@@ -1,9 +1,9 @@
 # HYFilterDemo
 
 ## 示例图片
-https://github.com/zhangyuchao/HYFilterDemo/blob/master/Images/first.png
-https://github.com/zhangyuchao/HYFilterDemo/blob/master/Images/senond.png
-https://github.com/zhangyuchao/HYFilterDemo/blob/master/Images/third.png
+![first.png](https://github.com/zhangyuchao/HYFilterDemo/blob/master/Images/first.png)
+![second.png]https://github.com/zhangyuchao/HYFilterDemo/blob/master/Images/second.png)
+![third.png](https://github.com/zhangyuchao/HYFilterDemo/blob/master/Images/third.png)
 
 ## 集成过程
 filterView = [[HYFilterView alloc] initWithFrame:CGRectMake(0, 64, self.view.frame.size.width, 48) titleArray:@[
